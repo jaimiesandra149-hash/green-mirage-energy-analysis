@@ -1,0 +1,26 @@
+Country,Indicator,Available_Records,First_Available_Year,Last_Available_Year
+Brazil,total_energy_twh,26,2000,2025
+Brazil,renewables_energy_twh,26,2000,2025
+Brazil,fossil_fuels_energy_twh,26,2000,2025
+Brazil,renewables_energy_share_pct,26,2000,2025
+Brazil,fossil_fuels_energy_share_pct,26,2000,2025
+China,total_energy_twh,26,2000,2025
+China,renewables_energy_twh,26,2000,2025
+China,fossil_fuels_energy_twh,26,2000,2025
+China,renewables_energy_share_pct,26,2000,2025
+China,fossil_fuels_energy_share_pct,26,2000,2025
+Germany,total_energy_twh,26,2000,2025
+Germany,renewables_energy_twh,26,2000,2025
+Germany,fossil_fuels_energy_twh,26,2000,2025
+Germany,renewables_energy_share_pct,26,2000,2025
+Germany,fossil_fuels_energy_share_pct,26,2000,2025
+India,total_energy_twh,26,2000,2025
+India,renewables_energy_twh,26,2000,2025
+India,fossil_fuels_energy_twh,26,2000,2025
+India,renewables_energy_share_pct,26,2000,2025
+India,fossil_fuels_energy_share_pct,26,2000,2025
+United States,total_energy_twh,26,2000,2025
+United States,renewables_energy_twh,26,2000,2025
+United States,fossil_fuels_energy_twh,26,2000,2025
+United States,renewables_energy_share_pct,26,2000,2025
+United States,fossil_fuels_energy_share_pct,26,2000,2025

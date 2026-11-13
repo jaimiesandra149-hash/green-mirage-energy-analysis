@@ -1,0 +1,37 @@
+GREEN MIRAGE - RESEARCH FINDINGS
+==================================================
+
+Country: India
+Renewable energy quantity change: 513.64 TWh
+Fossil fuel energy quantity change: 6657.59 TWh
+Renewable energy relative change: 609.27%
+Fossil fuel energy relative change: 193.41%
+Observed pattern: Both renewable and fossil energy increased
+
+Country: China
+Renewable energy quantity change: 3909.29 TWh
+Fossil fuel energy quantity change: 28357.30 TWh
+Renewable energy relative change: 1688.90%
+Fossil fuel energy relative change: 255.81%
+Observed pattern: Both renewable and fossil energy increased
+
+Country: Germany
+Renewable energy quantity change: 375.82 TWh
+Fossil fuel energy quantity change: -1024.99 TWh
+Renewable energy relative change: 795.02%
+Fossil fuel energy relative change: -30.22%
+Observed pattern: Renewables increased; fossil fuels decreased
+
+Country: Brazil
+Renewable energy quantity change: 720.39 TWh
+Fossil fuel energy quantity change: 590.50 TWh
+Renewable energy relative change: 178.62%
+Fossil fuel energy relative change: 43.84%
+Observed pattern: Both renewable and fossil energy increased
+
+Country: United States
+Renewable energy quantity change: 1261.89 TWh
+Fossil fuel energy quantity change: -1551.50 TWh
+Renewable energy relative change: 203.17%
+Fossil fuel energy relative change: -6.68%
+Observed pattern: Renewables increased; fossil fuels decreased

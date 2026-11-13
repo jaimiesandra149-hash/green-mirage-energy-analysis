@@ -1,0 +1,13 @@
+GREEN MIRAGE - PROJECT CONCLUSION
+==================================================
+
+This project investigated renewable energy growth and fossil fuel consumption across five selected countries.
+
+The analysis compared energy quantities and energy shares to distinguish changes in absolute energy supply from changes in the overall energy mix.
+
+Countries with increases in both energy quantities: 3
+Countries with renewable growth and fossil-fuel decline: 2
+
+These findings describe observed changes between available starting and ending observations. They do not establish causation or prove that renewable energy growth directly caused changes in fossil-fuel consumption.
+
+Data availability, measurement methodology and the selected comparison period should be considered when interpreting the results.
